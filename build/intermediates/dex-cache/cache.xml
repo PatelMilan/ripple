@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0f8c658165ffd10f6af397863d020f849ca184da">
+        <dex dex="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/pre-dexed/androidTest/debug/classes_1cc5c699afbe7a8e7aadaddd8a71b7508ee4dc77.jar" />
+    </item>
+    <item
+        jar="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/pre-dexed/androidTest/debug/com.android.support-appcompat-v7-23.3.0_a6c0d322194a1ed8aea79a95408784333c78bfd9.jar" />
+    </item>
+    <item
+        jar="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/pre-dexed/androidTest/debug/com.android.support-animated-vector-drawable-23.3.0_aca6f546536938843b63b08fc2853c14cd258686.jar" />
+    </item>
+    <item
+        jar="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/pre-dexed/androidTest/debug/com.android.support-support-vector-drawable-23.3.0_e6913c680f5106f4a445dc930d8e9465f309785c.jar" />
+    </item>
+    <item
+        jar="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/pre-dexed/androidTest/debug/com.android.support-support-v4-23.3.0_03a93ed339f034197a3379884b78a32ec57df090.jar" />
+    </item>
+    <item
+        jar="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/pre-dexed/androidTest/debug/internal_impl-23.3.0_a0927732e71dc93552d81fa0af599e6bcb7ae66f.jar" />
+    </item>
+    <item
+        jar="/home/k13/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/k13/Desktop/AndroidNewDemos/Rippleeffect/csiw/build/intermediates/pre-dexed/androidTest/debug/support-annotations-23.3.0_36666ab0d099b74db05cf1362ee0095ee42dae9c.jar" />
+    </item>
+
+</items>
